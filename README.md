@@ -1,3 +1,3 @@
 ### Hi
 
-[私](https://www.youtube.com/watch?v=a0YrCABCOEY)
+[私](https://www.youtube.com/watch?v=a0YrCABCOEY){:target="_blank"}
