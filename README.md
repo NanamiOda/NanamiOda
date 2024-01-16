@@ -1,3 +1,3 @@
 ### Hi
 
-[私](https://www.youtube.com/watch?v=a0YrCABCOEY){:target="_blank"}
+<a href="https://www.youtube.com/watch?v=a0YrCABCOEY" target="_blank">私</a>
